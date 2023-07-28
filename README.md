@@ -11,7 +11,7 @@ This is a simple e-commerce website built using React and Ant Design. It provide
 
 ## Demo
 
-A live demo of the project is available [here](https://your-demo-link.com).
+A live demo of the project is available [here](https://simple-e-commerce-website.netlify.app/).
 
 ## Installation
 
